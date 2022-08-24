@@ -1,6 +1,7 @@
 {
   "name": "m3-color-generator",
   "displayName": "M3 Color Generator",
+  "publisher": "SoumyadeepMondal",
   "description": "",
   "version": "0.0.1",
   "engines": {
